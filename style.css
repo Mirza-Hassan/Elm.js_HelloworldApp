@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#elm-app {
+    margin-top: 50px;
+}
+
+#counter-app {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#counter-value {
+    font-size: 24px;
+    margin: 0 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 0 10px;
+}
+
+/* You can add more CSS styles as needed */
