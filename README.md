@@ -42,6 +42,10 @@ To serve your Elm application using an HTTP server
 
 These steps provide a concise guide to set up a minimal Elm project.
 
-Screenshot:
+## Folder Structure:
+
+![ds](https://github.com/Mirza-Hassan/Elm_Helloworld_app/assets/17096257/57155d1f-9524-470e-8c95-beab861f0101)
+
+## Screenshot:
 ![ss](https://github.com/Mirza-Hassan/Learning_Elm.js/assets/17096257/fba78bce-ef89-4371-8c80-6cfd846aa906)
 
