@@ -1,4 +1,25 @@
-# Elm.js
+
+# Table of Contents
+
+- [Installation](#installation)
+- [Project Setup](#project-setup)
+- [Folder Structure](#folder-structure)
+- [Screenshot](#screenshot)
+
+# Installation
+
+Install Elm on your system by following these steps:
+
+1. Install Node.js: Elm requires Node.js and the Node Package Manager (npm) to run. 
+2. Install Elm using npm:
+```
+npm install -g elm
+```
+Verify Installation:
+```
+elm --version
+```
+# Project Setup
 
 To create a minimal Elm project, follow these simplified steps:
 
