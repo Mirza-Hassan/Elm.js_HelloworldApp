@@ -1,3 +1,6 @@
+# Elm.js 
+
+It is a functional programming language for front-end web development.
 
 # Table of Contents
 
