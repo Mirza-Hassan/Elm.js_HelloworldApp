@@ -2,6 +2,20 @@
 
 It is a functional programming language for front-end web development.
 
+Pros:
+- Strong typing
+- Immutable data
+- Structured architecture
+- Simplicity
+- Good tooling
+
+Cons:
+- Learning curve
+- Smaller community
+- Limited libraries
+- Compilation overhead
+- Not suitable for all projects
+
 # Table of Contents
 
 - [Installation](#installation)
