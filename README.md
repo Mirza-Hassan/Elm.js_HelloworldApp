@@ -103,3 +103,16 @@ These steps provide a concise guide to set up a minimal Elm project.
 ## Screenshot:
 ![ss](https://github.com/Mirza-Hassan/Learning_Elm.js/assets/17096257/fba78bce-ef89-4371-8c80-6cfd846aa906)
 
+
+# Capacitor
+
+- Cross-platform mobile app framework for Android and iOS.
+- Built with web technologies (HTML, CSS, JavaScript).
+- Provides access to native device features.
+- Simplifies app deployment to app stores.
+- Works well with Ionic Framework.
+
+Example
+
+![cc](https://github.com/Mirza-Hassan/Elm.js_HelloworldApp/assets/17096257/31a966cf-a665-4dc4-a662-5dfbea8f48d7)
+
