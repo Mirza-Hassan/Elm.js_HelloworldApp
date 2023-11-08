@@ -16,7 +16,21 @@ Cons:
 - Compilation overhead
 - Not suitable for all projects
 
+# Elm Architecture
+
+- Elm Architecture: A pattern for building interactive programs like webapps and games.
+- Natural Emergence: Discovered organically by early Elm programmers.
+- Widely Applicable: Useful in any front-end project, influencing patterns like Redux.
+- Learning Value: Valuable even if not using Elm in a professional setting.
+
+Basic Pattern:
+
+![elm](https://github.com/Mirza-Hassan/Elm.js_HelloworldApp/assets/17096257/77a05286-db0c-44c8-b4dc-f455d1aa4e87)
+
+
 Docs: https://guide.elm-lang.org/architecture/
+
+
 
 # Table of Contents
 
