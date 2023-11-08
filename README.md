@@ -16,6 +16,8 @@ Cons:
 - Compilation overhead
 - Not suitable for all projects
 
+Docs: https://guide.elm-lang.org/architecture/
+
 # Table of Contents
 
 - [Installation](#installation)
