@@ -116,3 +116,15 @@ Example
 
 ![cc](https://github.com/Mirza-Hassan/Elm.js_HelloworldApp/assets/17096257/31a966cf-a665-4dc4-a662-5dfbea8f48d7)
 
+
+# Cassandra:
+
+- Distributed NoSQL database.
+- Designed for high scalability and fault tolerance.
+- Provides high write and read throughput.
+- Uses CQL (Cassandra Query Language) for data modeling and querying.
+- Implemented using a ring-based architecture with data distributed across nodes.
+
+Example
+
+![dd](https://github.com/Mirza-Hassan/Elm.js_HelloworldApp/assets/17096257/027ea456-6c35-41e2-819b-8b62f108b1d6)
