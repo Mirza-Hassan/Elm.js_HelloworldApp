@@ -5,9 +5,9 @@
 - [Project Setup](#project-setup)
 - [Folder Structure](#folder-structure)
 - [Screenshot](#screenshot)
-- [Elm][#elm.js]
-- [Capacitor][#capacitor]
-- [Cassandra][#cassandra]
+- [Elm](#elm.js)
+- [Capacitor](#capacitor)
+- [Cassandra](#cassandra)
 
 # Elm.js 
 
