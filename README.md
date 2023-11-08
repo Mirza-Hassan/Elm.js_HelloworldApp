@@ -1,3 +1,14 @@
+
+# Table of Contents
+
+- [Installation](#installation)
+- [Project Setup](#project-setup)
+- [Folder Structure](#folder-structure)
+- [Screenshot](#screenshot)
+- [Elm][#elm.js]
+- [Capacitor][#capacitor]
+- [Cassandra][#cassandra]
+
 # Elm.js 
 
 It is a functional programming language for front-end web development.
@@ -31,13 +42,6 @@ Basic Pattern:
 Docs: https://guide.elm-lang.org/architecture/
 
 
-
-# Table of Contents
-
-- [Installation](#installation)
-- [Project Setup](#project-setup)
-- [Folder Structure](#folder-structure)
-- [Screenshot](#screenshot)
 
 # Installation
 
